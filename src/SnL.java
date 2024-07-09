@@ -24,10 +24,9 @@ import javax.sound.sampled.Clip;
 
 public class SnL {
 
-    // states, variable, or properties
     private int boardSize;
     private ArrayList<Player> players;
-    private ArrayList<String> playerCharacter; // Added to store player characters
+    private ArrayList<String> playerCharacter; // Store player characters
     private ArrayList<Snake> snakes;
     private ArrayList<Ladder> ladders;
     private int gameStatus;
