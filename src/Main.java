@@ -1,7 +1,6 @@
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 /**
-/**
  * -----------------------------------------------------
  * ES234211 - Programming Fundamental
  * Genap - 2023/2024
