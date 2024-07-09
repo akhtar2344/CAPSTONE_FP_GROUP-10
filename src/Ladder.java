@@ -7,11 +7,12 @@
  * Class    : Q
  * Group    : 10
  * Members  :
- * 1. Student ID - Akhtar Fattan Widodo
- * 2. Student ID - Axel, Luis, Albert, Gil
- * 3. Student ID - Bagas Budisatrio
+ * 1. 5026231044 - Akhtar Fattan Widodo
+ * 2. 5999232025 - Axel, Luis, Albert, Gil
+ * 3. 5026231045 - Bagas Budisatrio
  * ------------------------------------------------------
  */
+
 public class Ladder{
     int fromPosition;
     int toPosition;
